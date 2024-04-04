@@ -2,10 +2,10 @@
 
 **Autores**
 Sergio Torres
-[Github User:](https://github.com/xstorresm) 
+[Github User](https://github.com/xstorresm) 
 
 Yeison Montoya
-[Github User:](https://github.com/yeisonmontoya1815) 
+[Github User](https://github.com/yeisonmontoya1815) 
 
     - Special Topics in Data Analytics CSIS 4260-002
     - Douglas College - Winter 2024
