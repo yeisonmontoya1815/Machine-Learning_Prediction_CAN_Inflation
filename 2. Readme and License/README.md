@@ -2,7 +2,7 @@
 
 **Autores**
 Sergio Torres
-[Github User:](https://github.com/yeisonmontoya1815) 
+[Github User:](https://github.com/xstorresm) 
 
 Yeison Montoya
 [Github User:](https://github.com/yeisonmontoya1815) 
