@@ -2,14 +2,14 @@
 
 **Autores**
 Sergio Torres
-[Github User](https://github.com/xstorresm) 
+[Github User](https://github.com/xstorresm)
 
 Yeison Montoya
-[Github User](https://github.com/yeisonmontoya1815) 
+[Github User](https://github.com/yeisonmontoya1815)
 
     - Special Topics in Data Analytics CSIS 4260-002
     - Douglas College - Winter 2024
-    
+
 ## Description
 
 This project analyzes inflation data and sentiment analysis from Google News to understand the relationship between news sentiment and inflation rates in Canada. It includes data preprocessing, exploratory data analysis, feature selection, model building, and visualization using Python libraries such as pandas, scikit-learn, NLTK, spaCy, and matplotlib.
@@ -33,8 +33,10 @@ Run the Jupyter Notebook: `jupyter notebook`
 Open and run the analysis in the provided Jupyter Notebook.
 
 ## Data
+
 The data used in this project includes:
-- '1810000401_Inflation_Basket2_new.csv' file
+
+- 'Canada_Inflation_Market_Basket.csv' file
 - 'news.csv' file
 - 'news2.csv' file
 - 'Sentiment_results.csv' file
@@ -55,6 +57,7 @@ The data used in this project includes:
 - [CP24](https://news.google.com/articles/CBMidWh0dHBzOi8vd3d3LmNwMjQuY29tL25ld3MvdW5hbWJpZ3VvdXNseS1nb29kLWluZmxhdGlvbi1zbG93cy1pbi1mZWJydWFyeS1hcy1wcmljZS1ncm93dGgtdW5leHBlY3RlZGx5LWVhc2VzLTEuNjgxMzE0M9IBAA?hl=en-CA&gl=CA&ceid=CA%3Aen)
 
 ## Features
+
 - Data Preprocessing: Handling missing values, converting data types, sorting, and filtering.
 - Exploratory Data Analysis: Analyzing trends, correlations, and distributions.
 - Feature Selection: Selecting relevant features for modeling using pipelines and feature selection techniques.
@@ -62,13 +65,17 @@ The data used in this project includes:
 - Visualization: Creating visualizations such as ROC curves, confusion matrices, word clouds, etc.
 
 ## Models
+
 The project uses various machine learning models for analysis, including Logistic Regression, Random Forest, Naive Bayes, etc. These models are evaluated based on performance metrics such as accuracy, recall, and ROC-AUC score.
 
 ## Visualization
+
 The project includes visualizations generated using libraries like Matplotlib, seaborn, and word cloud to represent data trends, model performance, and word frequency analysis.
 
 ## Contributing
+
 Contributions to this project are welcome. You can contribute by opening a pull request or raising issues for bug fixes, feature requests, or improvements.
 
 ## License
+
 This project is licensed under the Creative Commons Attribution 4.0 International License - see the [LICENSE](LICENSE) file for details.
