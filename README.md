@@ -7,12 +7,11 @@ Sergio Torres
 Yeison Montoya
 [Github User](https://github.com/yeisonmontoya1815)
 
-    - Special Topics in Data Analytics CSIS 4260-002
-    - Douglas College - Winter 2024
+follow me on [Linkedin](https://www.linkedin.com/in/yeisonmontoya/)
 
 ## Description
 
-This project analyzes inflation data and sentiment analysis from Google News to understand the relationship between news sentiment and inflation rates in Canada. It includes data preprocessing, exploratory data analysis, feature selection, model building, and visualization using Python libraries such as pandas, scikit-learn, NLTK, spaCy, and matplotlib.
+This project analyzes inflation data and sentiment analysis from Google News to understand the relationship between news sentiment and inflation rates in Canada. It includes data preprocessing, exploratory data analysis, feature selection, model building, and visualization using Python libraries such as pandas, sci-kit-learn, NLTK, spaCy, and matplotlib.
 
 ## Table of Contents
 
@@ -29,7 +28,7 @@ This project analyzes inflation data and sentiment analysis from Google News to 
 ## Usage
 
 Navigate to the project directory: `cd project`
-Run the Jupyter Notebook: `jupyter notebook`
+Run the Jupyter Notebook: `Jupyter Notebook`
 Open and run the analysis in the provided Jupyter Notebook.
 
 ## Data
@@ -46,7 +45,7 @@ The data used in this project includes:
 - Hunter, J. D. (2007). Matplotlib: A 2D graphics environment. Computing in Science & Engineering, 9(3), 90-95.
 - Python Software Foundation. (n.d.). Matplotlib: Visualization with Python. Retrieved from [Matplotlib](https://matplotlib.org/)
 - Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Vanderplas, J. (2011). Scikit-learn: Machine learning in Python. Journal of Machine Learning Research, 12(Oct), 2825-2830.
-- Raschka, S., & Mirjalili, V. (2019). Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2. Packt Publishing Ltd.
+- Raschka, S., & Mirjalili, V. (2019). Python Machine Learning: Machine Learning and Deep Learning with Python, sci-kit-learn, and TensorFlow 2. Packt Publishing Ltd.
 
 ## Websites
 
@@ -60,7 +59,7 @@ The data used in this project includes:
 
 - Data Preprocessing: Handling missing values, converting data types, sorting, and filtering.
 - Exploratory Data Analysis: Analyzing trends, correlations, and distributions.
-- Feature Selection: Selecting relevant features for modeling using pipelines and feature selection techniques.
+- Feature Selection: Selecting relevant features for modelling using pipelines and feature selection techniques.
 - Model Building: Implementing machine learning models such as Logistic Regression, Random Forest, Naive Bayes, etc.
 - Visualization: Creating visualizations such as ROC curves, confusion matrices, word clouds, etc.
 
@@ -70,7 +69,7 @@ The project uses various machine learning models for analysis, including Logisti
 
 ## Visualization
 
-The project includes visualizations generated using libraries like Matplotlib, seaborn, and word cloud to represent data trends, model performance, and word frequency analysis.
+The project includes visualizations generated using libraries like Matplotlib, seaborn, and Word Cloud to represent data trends, model performance, and word frequency analysis.
 
 ## Contributing
 
